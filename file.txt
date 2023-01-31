@@ -1,4 +1,6 @@
-hello
-world
-Afghanistan
-Nangerhar
+Group members:-
+Name              F.name
+Atifullah         Mula Taher
+Hussanahmed       
+Merwali           Sad Sali
+Abdulatif         Azim Gul
