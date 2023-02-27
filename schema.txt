@@ -1,0 +1,38 @@
+Our project schema
+Doctor
+Doctor
+Address
+Name Last name Gemder
+Birthday
+Age
+degree
+Salary
+SSN
+ID
+Nurse
+Birthday
+Address
+SSN Salary
+Last name
+Age
+Name
+ID
+Phone
+number
+Phone
+number
+Gender
+Driver
+SSN
+ID
+Phone
+number
+Salary
+Brithday
+Name
+Last Name
+Age
+Gender
+Phone
+number
+Address
