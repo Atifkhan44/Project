@@ -1,0 +1,8 @@
+
+Entities:
+Doctor: {Name, last name, gender, Age, Address, Birthday, salary, degree, SSN, phone, Id}
+Driver: {Name, last name, Gender, Phone, Address, Salary, ID, SSN, Age}
+Manager: {name, last name, gender, age, degree, ID, SSN, phone, Salary, Address}
+Nurse: {Name, last name, gender, age, birthday, id, Address, salary, SSN, phone} 
+Pharmacist: {Name, last Name, degree, salary, SSN, Age, ID, Phone, address}
+Patient: {Name, last name, Gender, Illness, Illness reason, SSN, age, ID, phone, Address}
